@@ -1,4 +1,5 @@
-# Project Simon documentation page
+# :construction: *WIP* Project Simon documentation page :construction:
 
-To follow and build a Simon, go [here](https://project-simon.github.io/).
-To be kept in GitHub, stay [there](https://github.com/Project-Simon).
+__*To follow*__ and __*build*__ a *Simon*, go [here](https://project-simon.github.io/).
+
+__*To stay*__ on *GitHub*, stay [there](https://github.com/Project-Simon).
