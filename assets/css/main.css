@@ -316,6 +316,7 @@ pre {
 }
 
 figure {
+    text-align: center;
     margin: 0 0 1rem
 }
 
@@ -18614,5 +18615,5 @@ footer {
         margin-top: 30px;
         margin-bottom: 30px;
     }
-    
+
 }
